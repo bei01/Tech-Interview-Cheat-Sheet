@@ -332,7 +332,7 @@ This algorithm never needed to compare all the differences to one another, savin
 - Worst Case: `O(n^2)`
 
 #### Space Complexity
-- Worst Case: `O(n)`
+- Worst Case: `O(1)` (corrected)
 
 #### Visualization
 ![#](https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif)
@@ -356,7 +356,7 @@ This algorithm never needed to compare all the differences to one another, savin
 - Best Case: `O(n)`
 
 #### Space Complexity
-- Worst Case: `O(n)`
+- Worst Case: `O(n)` (corrected)
 
 #### Visualization
 ![#](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Merge_sort_algorithm_diagram.svg/400px-Merge_sort_algorithm_diagram.svg.png)
