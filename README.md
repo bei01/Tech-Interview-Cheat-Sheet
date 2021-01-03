@@ -8,6 +8,10 @@ This is an open source, community project, and I am grateful for all the help I 
 ## Challenges
 This project now has actual code challenges! This challenges are meant to cover the topics you'll read below. Maybe you'll see them in an interview and maybe you won't. Either way you'll probably learn something new. [Click here for more](./challenges/README.md)
 
+## Quick Check
+![#](https://github.com/bei01/Tech-Interview-Cheat-Sheet/blob/master/Array%20Sorting%20Algorithms.png)
+![#](https://github.com/bei01/Tech-Interview-Cheat-Sheet/blob/master/Common%20Data%20Structure%20Operations.png)
+
 # Table of Content
 - [Asymptotic Notation](#asymptotic-notation)
 - [Data Structures](#data-structures)
